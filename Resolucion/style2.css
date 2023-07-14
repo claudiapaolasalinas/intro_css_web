@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    }
+
+div{
+    width:400px;
+    height: 400px;
+    background-color: #05464e;
+    margin-right:350px;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding-top: 35px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+}
+
+img {
+    height: 360px;
+    width: 360px;
+}
+.green{
+    color:hwb(120 14% 24%);
+    font-size:30px;
+}
+.purple{
+    color: hsl(300, 80%, 54%);
+    font-size: 20px;
+}
